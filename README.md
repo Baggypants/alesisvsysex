@@ -2,7 +2,7 @@
 
 Python tool for configuring Alesis VMini MIDI controllers
 
-#Important Note
+# Important Note
 
 This tool has been merged into another tool available here: https://github.com/abridgewater/alesisvsysex Which is able to manage Alesis VMini, V25 and VI49 controllers.
 
